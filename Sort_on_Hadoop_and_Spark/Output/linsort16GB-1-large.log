@@ -1,0 +1,9 @@
+Linux sort for 16GB:
+time taken = 178.53 sec
+
+
+Valsort verification for sorted output file:
+Records: 160000000
+Checksum: 4c4a5084cc6403c
+Duplicate keys: 0
+SUCCESS - all records are in order

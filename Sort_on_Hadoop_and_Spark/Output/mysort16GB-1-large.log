@@ -1,0 +1,41 @@
+16GB input file generated
+
+Run MySort Benchmark for 16GB :
+
+Setting Memory Limit : 30064771072
+Number of Threads for Sorting : 32
+Number of Threads for I/O : 16
+Performing In-Memory Sort
+Spawning [16] Threads for read operation
+Started Read Thread [28]
+Started Read Thread [33]
+Started Read Thread [22]
+Started Read Thread [20]
+Started Read Thread [21]
+Started Read Thread [26]
+Started Read Thread [32]
+Started Read Thread [27]
+Started Read Thread [24]
+Started Read Thread [35]
+Started Read Thread [30]
+Started Read Thread [25]
+Started Read Thread [34]
+Started Read Thread [23]
+Started Read Thread [29]
+Started Read Thread [31]
+Completed all Read threads
+Time Taken to read file = 73.333 sec
+Time Taken to divide into chunks = 6.28 sec
+Spawning [32] Threads for mergesort operation
+Completed all Merge Sort threads
+Time Taken to perform Internal Merge = 101.792 sec
+Time Taken to perform merge sort = 149.771 sec
+Time Taken to read file = 73.333 sec
+Time Taken to perform merge sort = 149.771 sec
+Total Time = 223.55 sec
+
+Run Valsort verification for sorted output file :
+Records: 160000000
+Checksum: 4c4a5084cc6403c
+Duplicate keys: 0
+SUCCESS - all records are in order

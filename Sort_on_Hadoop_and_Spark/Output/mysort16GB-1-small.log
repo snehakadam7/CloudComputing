@@ -1,0 +1,2484 @@
+16GB input file generated
+
+Run MySort Benchmark for 16GB :
+
+Setting Memory Limit : 6815744000
+Number of Threads for Sorting :  8
+Number of Threads for I/O : 4
+External Sort IterationCount : 16
+Performing External Sort
+Spawning [4] Threads for read operation
+Started Read Thread [11]
+Started Read Thread [14]
+Started Read Thread [12]
+Started Read Thread [13]
+Completed all Read threads
+Time Taken to divide into chunks = 0.444 sec
+Spawning [8] Threads for mergesort operation
+Completed all Merge Sort threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+start_write 62500000
+end_write 93750000
+Started Write Thread [24]
+Started Write Thread [25]
+Started Write Thread [23]
+start_write 93750000
+end_write 125000000
+Started Write Thread [26]
+Completed Write Thread [23]
+Completed Write Thread [25]
+Completed Write Thread [26]
+Completed Write Thread [24]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+start_write 62500000
+end_write 93750000
+Started Write Thread [27]
+start_write 93750000
+end_write 125000000
+Started Write Thread [29]
+Started Write Thread [30]
+Started Write Thread [28]
+Completed Write Thread [29]
+Completed Write Thread [28]
+Completed Write Thread [30]
+Completed Write Thread [27]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+start_write 62500000
+end_write 93750000
+Started Write Thread [31]
+Started Write Thread [33]
+start_write 93750000
+end_write 125000000
+Started Write Thread [32]
+Started Write Thread [34]
+Completed Write Thread [33]
+Completed Write Thread [32]
+Completed Write Thread [31]
+Completed Write Thread [34]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [35]
+start_write 62500000
+end_write 93750000
+Started Write Thread [36]
+start_write 93750000
+end_write 125000000
+Started Write Thread [37]
+Started Write Thread [38]
+Completed Write Thread [35]
+Completed Write Thread [36]
+Completed Write Thread [38]
+Completed Write Thread [37]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+start_write 62500000
+Started Write Thread [39]
+end_write 93750000
+Started Write Thread [40]
+start_write 93750000
+end_write 125000000
+Started Write Thread [42]
+Started Write Thread [41]
+Completed Write Thread [42]
+Completed Write Thread [40]
+Completed Write Thread [39]
+Completed Write Thread [41]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+start_write 62500000
+end_write 93750000
+Started Write Thread [44]
+start_write 93750000
+end_write 125000000
+Started Write Thread [45]
+Started Write Thread [46]
+Started Write Thread [43]
+Completed Write Thread [43]
+Completed Write Thread [45]
+Completed Write Thread [46]
+Completed Write Thread [44]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [47]
+start_write 62500000
+end_write 93750000
+Started Write Thread [48]
+start_write 93750000
+end_write 125000000
+Started Write Thread [50]
+Started Write Thread [49]
+Completed Write Thread [50]
+Completed Write Thread [48]
+Completed Write Thread [49]
+Completed Write Thread [47]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+start_write 62500000
+end_write 93750000
+Started Write Thread [51]
+start_write 93750000
+Started Write Thread [52]
+Started Write Thread [53]
+end_write 125000000
+Started Write Thread [54]
+Completed Write Thread [53]
+Completed Write Thread [54]
+Completed Write Thread [52]
+Completed Write Thread [51]
+Completed all Write threads
+Divided file count: 8
+Spawning [4] Threads for read operation
+Started Read Thread [55]
+Started Read Thread [56]
+Started Read Thread [57]
+Started Read Thread [58]
+Completed all Read threads
+Time Taken to divide into chunks = 0.393 sec
+Spawning [8] Threads for mergesort operation
+Completed all Merge Sort threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [67]
+start_write 62500000
+end_write 93750000
+Started Write Thread [68]
+start_write 93750000
+end_write 125000000
+Started Write Thread [69]
+Started Write Thread [70]
+Completed Write Thread [68]
+Completed Write Thread [67]
+Completed Write Thread [69]
+Completed Write Thread [70]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [71]
+start_write 62500000
+end_write 93750000
+Started Write Thread [72]
+start_write 93750000
+Started Write Thread [73]
+end_write 125000000
+Started Write Thread [74]
+Completed Write Thread [73]
+Completed Write Thread [72]
+Completed Write Thread [71]
+Completed Write Thread [74]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [75]
+start_write 62500000
+end_write 93750000
+start_write 93750000
+end_write 125000000
+Started Write Thread [77]
+Started Write Thread [76]
+Started Write Thread [78]
+Completed Write Thread [75]
+Completed Write Thread [77]
+Completed Write Thread [76]
+Completed Write Thread [78]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [79]
+start_write 62500000
+end_write 93750000
+Started Write Thread [80]
+start_write 93750000
+end_write 125000000
+Started Write Thread [81]
+Started Write Thread [82]
+Completed Write Thread [79]
+Completed Write Thread [82]
+Completed Write Thread [80]
+Completed Write Thread [81]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [83]
+start_write 62500000
+end_write 93750000
+Started Write Thread [84]
+start_write 93750000
+end_write 125000000
+Started Write Thread [85]
+Started Write Thread [86]
+Completed Write Thread [84]
+Completed Write Thread [86]
+Completed Write Thread [85]
+Completed Write Thread [83]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [87]
+start_write 62500000
+end_write 93750000
+Started Write Thread [88]
+start_write 93750000
+end_write 125000000
+Started Write Thread [90]
+Started Write Thread [89]
+Completed Write Thread [89]
+Completed Write Thread [87]
+Completed Write Thread [88]
+Completed Write Thread [90]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [91]
+start_write 62500000
+end_write 93750000
+start_write 93750000
+Started Write Thread [92]
+end_write 125000000
+Started Write Thread [93]
+Started Write Thread [94]
+Completed Write Thread [91]
+Completed Write Thread [92]
+Completed Write Thread [94]
+Completed Write Thread [93]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [95]
+start_write 62500000
+end_write 93750000
+Started Write Thread [96]
+start_write 93750000
+Started Write Thread [97]
+end_write 125000000
+Started Write Thread [98]
+Completed Write Thread [96]
+Completed Write Thread [95]
+Completed Write Thread [98]
+Completed Write Thread [97]
+Completed all Write threads
+Divided file count: 16
+Spawning [4] Threads for read operation
+Started Read Thread [99]
+Started Read Thread [100]
+Started Read Thread [101]
+Started Read Thread [102]
+Completed all Read threads
+Time Taken to divide into chunks = 0.407 sec
+Spawning [8] Threads for mergesort operation
+Completed all Merge Sort threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [111]
+start_write 62500000
+end_write 93750000
+Started Write Thread [112]
+start_write 93750000
+end_write 125000000
+Started Write Thread [113]
+Started Write Thread [114]
+Completed Write Thread [112]
+Completed Write Thread [111]
+Completed Write Thread [113]
+Completed Write Thread [114]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+start_write 62500000
+end_write 93750000
+Started Write Thread [116]
+Started Write Thread [115]
+start_write 93750000
+end_write 125000000
+Started Write Thread [117]
+Started Write Thread [118]
+Completed Write Thread [118]
+Completed Write Thread [117]
+Completed Write Thread [116]
+Completed Write Thread [115]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+start_write 62500000
+end_write 93750000
+Started Write Thread [119]
+Started Write Thread [120]
+start_write 93750000
+end_write 125000000
+Started Write Thread [121]
+Started Write Thread [122]
+Completed Write Thread [120]
+Completed Write Thread [122]
+Completed Write Thread [121]
+Completed Write Thread [119]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [123]
+start_write 62500000
+end_write 93750000
+Started Write Thread [124]
+start_write 93750000
+end_write 125000000
+Started Write Thread [125]
+Started Write Thread [126]
+Completed Write Thread [125]
+Completed Write Thread [123]
+Completed Write Thread [124]
+Completed Write Thread [126]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [127]
+start_write 62500000
+end_write 93750000
+Started Write Thread [128]
+start_write 93750000
+Started Write Thread [129]
+end_write 125000000
+Started Write Thread [130]
+Completed Write Thread [130]
+Completed Write Thread [127]
+Completed Write Thread [128]
+Completed Write Thread [129]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [131]
+start_write 62500000
+end_write 93750000
+Started Write Thread [132]
+start_write 93750000
+end_write 125000000
+Started Write Thread [134]
+Started Write Thread [133]
+Completed Write Thread [131]
+Completed Write Thread [132]
+Completed Write Thread [134]
+Completed Write Thread [133]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [135]
+start_write 62500000
+end_write 93750000
+start_write 93750000
+end_write 125000000
+Started Write Thread [136]
+Started Write Thread [137]
+Started Write Thread [138]
+Completed Write Thread [138]
+Completed Write Thread [136]
+Completed Write Thread [137]
+Completed Write Thread [135]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [139]
+start_write 62500000
+end_write 93750000
+start_write 93750000
+end_write 125000000
+Started Write Thread [141]
+Started Write Thread [142]
+Started Write Thread [140]
+Completed Write Thread [139]
+Completed Write Thread [140]
+Completed Write Thread [141]
+Completed Write Thread [142]
+Completed all Write threads
+Divided file count: 24
+Spawning [4] Threads for read operation
+Started Read Thread [144]
+Started Read Thread [145]
+Started Read Thread [143]
+Started Read Thread [146]
+Completed all Read threads
+Time Taken to divide into chunks = 0.38 sec
+Spawning [8] Threads for mergesort operation
+Completed all Merge Sort threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+start_write 62500000
+end_write 93750000
+Started Write Thread [155]
+Started Write Thread [156]
+start_write 93750000
+end_write 125000000
+Started Write Thread [157]
+Started Write Thread [158]
+Completed Write Thread [155]
+Completed Write Thread [156]
+Completed Write Thread [158]
+Completed Write Thread [157]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [159]
+start_write 62500000
+end_write 93750000
+Started Write Thread [160]
+start_write 93750000
+end_write 125000000
+Started Write Thread [161]
+Started Write Thread [162]
+Completed Write Thread [159]
+Completed Write Thread [161]
+Completed Write Thread [160]
+Completed Write Thread [162]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [163]
+start_write 62500000
+end_write 93750000
+start_write 93750000
+Started Write Thread [164]
+end_write 125000000
+Started Write Thread [166]
+Started Write Thread [165]
+Completed Write Thread [163]
+Completed Write Thread [166]
+Completed Write Thread [165]
+Completed Write Thread [164]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [167]
+start_write 62500000
+end_write 93750000
+start_write 93750000
+end_write 125000000
+Started Write Thread [168]
+Started Write Thread [169]
+Started Write Thread [170]
+Completed Write Thread [167]
+Completed Write Thread [170]
+Completed Write Thread [168]
+Completed Write Thread [169]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [171]
+start_write 62500000
+end_write 93750000
+Started Write Thread [172]
+start_write 93750000
+end_write 125000000
+Started Write Thread [173]
+Started Write Thread [174]
+Completed Write Thread [174]
+Completed Write Thread [173]
+Completed Write Thread [171]
+Completed Write Thread [172]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [175]
+start_write 62500000
+end_write 93750000
+Started Write Thread [176]
+start_write 93750000
+end_write 125000000
+Started Write Thread [177]
+Started Write Thread [178]
+Completed Write Thread [177]
+Completed Write Thread [176]
+Completed Write Thread [175]
+Completed Write Thread [178]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+start_write 62500000
+end_write 93750000
+Started Write Thread [179]
+start_write 93750000
+end_write 125000000
+Started Write Thread [181]
+Started Write Thread [180]
+Started Write Thread [182]
+Completed Write Thread [179]
+Completed Write Thread [180]
+Completed Write Thread [182]
+Completed Write Thread [181]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [183]
+start_write 62500000
+end_write 93750000
+start_write 93750000
+end_write 125000000
+Started Write Thread [184]
+Started Write Thread [186]
+Started Write Thread [185]
+Completed Write Thread [186]
+Completed Write Thread [185]
+Completed Write Thread [184]
+Completed Write Thread [183]
+Completed all Write threads
+Divided file count: 32
+Spawning [4] Threads for read operation
+Started Read Thread [187]
+Started Read Thread [188]
+Started Read Thread [189]
+Started Read Thread [190]
+Completed all Read threads
+Time Taken to divide into chunks = 0.396 sec
+Spawning [8] Threads for mergesort operation
+Completed all Merge Sort threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [199]
+start_write 62500000
+end_write 93750000
+start_write 93750000
+end_write 125000000
+Started Write Thread [201]
+Started Write Thread [200]
+Started Write Thread [202]
+Completed Write Thread [200]
+Completed Write Thread [202]
+Completed Write Thread [199]
+Completed Write Thread [201]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [203]
+start_write 62500000
+end_write 93750000
+start_write 93750000
+end_write 125000000
+Started Write Thread [204]
+Started Write Thread [205]
+Started Write Thread [206]
+Completed Write Thread [204]
+Completed Write Thread [206]
+Completed Write Thread [203]
+Completed Write Thread [205]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [207]
+start_write 62500000
+end_write 93750000
+Started Write Thread [208]
+start_write 93750000
+end_write 125000000
+Started Write Thread [209]
+Started Write Thread [210]
+Completed Write Thread [210]
+Completed Write Thread [209]
+Completed Write Thread [207]
+Completed Write Thread [208]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [211]
+start_write 62500000
+end_write 93750000
+start_write 93750000
+end_write 125000000
+Started Write Thread [212]
+Started Write Thread [214]
+Started Write Thread [213]
+Completed Write Thread [214]
+Completed Write Thread [211]
+Completed Write Thread [212]
+Completed Write Thread [213]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+start_write 62500000
+end_write 93750000
+Started Write Thread [215]
+start_write 93750000
+end_write 125000000
+Started Write Thread [216]
+Started Write Thread [217]
+Started Write Thread [218]
+Completed Write Thread [217]
+Completed Write Thread [215]
+Completed Write Thread [218]
+Completed Write Thread [216]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [219]
+start_write 62500000
+end_write 93750000
+Started Write Thread [220]
+start_write 93750000
+end_write 125000000
+Started Write Thread [221]
+Started Write Thread [222]
+Completed Write Thread [220]
+Completed Write Thread [222]
+Completed Write Thread [219]
+Completed Write Thread [221]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [223]
+start_write 62500000
+end_write 93750000
+start_write 93750000
+end_write 125000000
+Started Write Thread [225]
+Started Write Thread [224]
+Started Write Thread [226]
+Completed Write Thread [223]
+Completed Write Thread [224]
+Completed Write Thread [226]
+Completed Write Thread [225]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [227]
+start_write 62500000
+end_write 93750000
+start_write 93750000
+end_write 125000000
+Started Write Thread [228]
+Started Write Thread [229]
+Started Write Thread [230]
+Completed Write Thread [228]
+Completed Write Thread [227]
+Completed Write Thread [230]
+Completed Write Thread [229]
+Completed all Write threads
+Divided file count: 40
+Spawning [4] Threads for read operation
+Started Read Thread [231]
+Started Read Thread [232]
+Started Read Thread [233]
+Started Read Thread [234]
+Completed all Read threads
+Time Taken to divide into chunks = 0.455 sec
+Spawning [8] Threads for mergesort operation
+Completed all Merge Sort threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [243]
+start_write 62500000
+end_write 93750000
+Started Write Thread [244]
+start_write 93750000
+end_write 125000000
+Started Write Thread [245]
+Started Write Thread [246]
+Completed Write Thread [246]
+Completed Write Thread [245]
+Completed Write Thread [243]
+Completed Write Thread [244]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [247]
+start_write 62500000
+end_write 93750000
+Started Write Thread [248]
+start_write 93750000
+end_write 125000000
+Started Write Thread [249]
+Started Write Thread [250]
+Completed Write Thread [248]
+Completed Write Thread [250]
+Completed Write Thread [249]
+Completed Write Thread [247]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [251]
+start_write 62500000
+end_write 93750000
+Started Write Thread [252]
+start_write 93750000
+end_write 125000000
+Started Write Thread [254]
+Started Write Thread [253]
+Completed Write Thread [251]
+Completed Write Thread [252]
+Completed Write Thread [254]
+Completed Write Thread [253]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [255]
+start_write 62500000
+end_write 93750000
+Started Write Thread [256]
+start_write 93750000
+end_write 125000000
+Started Write Thread [257]
+Started Write Thread [258]
+Completed Write Thread [256]
+Completed Write Thread [257]
+Completed Write Thread [258]
+Completed Write Thread [255]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [259]
+start_write 62500000
+end_write 93750000
+Started Write Thread [260]
+start_write 93750000
+end_write 125000000
+Started Write Thread [261]
+Started Write Thread [262]
+Completed Write Thread [261]
+Completed Write Thread [259]
+Completed Write Thread [260]
+Completed Write Thread [262]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [263]
+start_write 62500000
+end_write 93750000
+Started Write Thread [264]
+start_write 93750000
+end_write 125000000
+Started Write Thread [265]
+Started Write Thread [266]
+Completed Write Thread [263]
+Completed Write Thread [265]
+Completed Write Thread [264]
+Completed Write Thread [266]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [267]
+start_write 62500000
+end_write 93750000
+Started Write Thread [268]
+start_write 93750000
+end_write 125000000
+Started Write Thread [269]
+Started Write Thread [270]
+Completed Write Thread [270]
+Completed Write Thread [269]
+Completed Write Thread [267]
+Completed Write Thread [268]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+start_write 62500000
+end_write 93750000
+Started Write Thread [271]
+Started Write Thread [272]
+start_write 93750000
+end_write 125000000
+Started Write Thread [273]
+Started Write Thread [274]
+Completed Write Thread [272]
+Completed Write Thread [271]
+Completed Write Thread [274]
+Completed Write Thread [273]
+Completed all Write threads
+Divided file count: 48
+Spawning [4] Threads for read operation
+Started Read Thread [275]
+Started Read Thread [276]
+Started Read Thread [277]
+Started Read Thread [278]
+Completed all Read threads
+Time Taken to divide into chunks = 0.432 sec
+Spawning [8] Threads for mergesort operation
+Completed all Merge Sort threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [287]
+start_write 62500000
+end_write 93750000
+Started Write Thread [288]
+start_write 93750000
+end_write 125000000
+Started Write Thread [289]
+Started Write Thread [290]
+Completed Write Thread [287]
+Completed Write Thread [288]
+Completed Write Thread [289]
+Completed Write Thread [290]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+start_write 62500000
+end_write 93750000
+Started Write Thread [291]
+Started Write Thread [292]
+start_write 93750000
+end_write 125000000
+Started Write Thread [293]
+Started Write Thread [294]
+Completed Write Thread [292]
+Completed Write Thread [291]
+Completed Write Thread [293]
+Completed Write Thread [294]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [295]
+start_write 62500000
+end_write 93750000
+Started Write Thread [296]
+start_write 93750000
+end_write 125000000
+Started Write Thread [297]
+Started Write Thread [298]
+Completed Write Thread [295]
+Completed Write Thread [296]
+Completed Write Thread [297]
+Completed Write Thread [298]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [299]
+start_write 62500000
+end_write 93750000
+start_write 93750000
+end_write 125000000
+Started Write Thread [300]
+Started Write Thread [302]
+Started Write Thread [301]
+Completed Write Thread [301]
+Completed Write Thread [299]
+Completed Write Thread [302]
+Completed Write Thread [300]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [303]
+start_write 62500000
+end_write 93750000
+Started Write Thread [304]
+start_write 93750000
+end_write 125000000
+Started Write Thread [305]
+Started Write Thread [306]
+Completed Write Thread [305]
+Completed Write Thread [303]
+Completed Write Thread [306]
+Completed Write Thread [304]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [307]
+start_write 62500000
+end_write 93750000
+start_write 93750000
+end_write 125000000
+Started Write Thread [308]
+Started Write Thread [310]
+Started Write Thread [309]
+Completed Write Thread [309]
+Completed Write Thread [307]
+Completed Write Thread [308]
+Completed Write Thread [310]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+start_write 62500000
+end_write 93750000
+Started Write Thread [311]
+start_write 93750000
+end_write 125000000
+Started Write Thread [313]
+Started Write Thread [312]
+Started Write Thread [314]
+Completed Write Thread [313]
+Completed Write Thread [314]
+Completed Write Thread [311]
+Completed Write Thread [312]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+start_write 62500000
+end_write 93750000
+Started Write Thread [315]
+Started Write Thread [316]
+start_write 93750000
+end_write 125000000
+Started Write Thread [317]
+Started Write Thread [318]
+Completed Write Thread [318]
+Completed Write Thread [316]
+Completed Write Thread [315]
+Completed Write Thread [317]
+Completed all Write threads
+Divided file count: 56
+Spawning [4] Threads for read operation
+Started Read Thread [319]
+Started Read Thread [320]
+Started Read Thread [321]
+Started Read Thread [322]
+Completed all Read threads
+Time Taken to divide into chunks = 0.433 sec
+Spawning [8] Threads for mergesort operation
+Completed all Merge Sort threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [331]
+start_write 62500000
+end_write 93750000
+Started Write Thread [332]
+start_write 93750000
+end_write 125000000
+Started Write Thread [333]
+Started Write Thread [334]
+Completed Write Thread [332]
+Completed Write Thread [331]
+Completed Write Thread [333]
+Completed Write Thread [334]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [335]
+start_write 62500000
+end_write 93750000
+start_write 93750000
+end_write 125000000
+Started Write Thread [336]
+Started Write Thread [337]
+Started Write Thread [338]
+Completed Write Thread [337]
+Completed Write Thread [335]
+Completed Write Thread [338]
+Completed Write Thread [336]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+start_write 62500000
+end_write 93750000
+Started Write Thread [340]
+start_write 93750000
+end_write 125000000
+Started Write Thread [341]
+Started Write Thread [339]
+Started Write Thread [342]
+Completed Write Thread [342]
+Completed Write Thread [341]
+Completed Write Thread [339]
+Completed Write Thread [340]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [343]
+start_write 62500000
+end_write 93750000
+start_write 93750000
+Started Write Thread [344]
+Started Write Thread [345]
+end_write 125000000
+Started Write Thread [346]
+Completed Write Thread [344]
+Completed Write Thread [343]
+Completed Write Thread [345]
+Completed Write Thread [346]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [347]
+start_write 62500000
+end_write 93750000
+Started Write Thread [348]
+start_write 93750000
+end_write 125000000
+Started Write Thread [350]
+Started Write Thread [349]
+Completed Write Thread [347]
+Completed Write Thread [349]
+Completed Write Thread [350]
+Completed Write Thread [348]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+start_write 62500000
+Started Write Thread [351]
+end_write 93750000
+Started Write Thread [352]
+start_write 93750000
+end_write 125000000
+Started Write Thread [353]
+Started Write Thread [354]
+Completed Write Thread [351]
+Completed Write Thread [353]
+Completed Write Thread [352]
+Completed Write Thread [354]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [355]
+Started Write Thread [356]
+start_write 62500000
+end_write 93750000
+start_write 93750000
+end_write 125000000
+Started Write Thread [357]
+Started Write Thread [358]
+Completed Write Thread [357]
+Completed Write Thread [358]
+Completed Write Thread [355]
+Completed Write Thread [356]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [359]
+start_write 62500000
+end_write 93750000
+Started Write Thread [360]
+start_write 93750000
+end_write 125000000
+Started Write Thread [361]
+Started Write Thread [362]
+Completed Write Thread [359]
+Completed Write Thread [361]
+Completed Write Thread [362]
+Completed Write Thread [360]
+Completed all Write threads
+Divided file count: 64
+Spawning [4] Threads for read operation
+Started Read Thread [363]
+Started Read Thread [366]
+Started Read Thread [365]
+Started Read Thread [364]
+Completed all Read threads
+Time Taken to divide into chunks = 0.355 sec
+Spawning [8] Threads for mergesort operation
+Completed all Merge Sort threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [375]
+start_write 62500000
+end_write 93750000
+Started Write Thread [376]
+start_write 93750000
+end_write 125000000
+Started Write Thread [377]
+Started Write Thread [378]
+Completed Write Thread [375]
+Completed Write Thread [376]
+Completed Write Thread [378]
+Completed Write Thread [377]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [379]
+start_write 62500000
+end_write 93750000
+start_write 93750000
+end_write 125000000
+Started Write Thread [380]
+Started Write Thread [382]
+Started Write Thread [381]
+Completed Write Thread [382]
+Completed Write Thread [381]
+Completed Write Thread [379]
+Completed Write Thread [380]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [383]
+start_write 62500000
+end_write 93750000
+Started Write Thread [384]
+start_write 93750000
+end_write 125000000
+Started Write Thread [385]
+Started Write Thread [386]
+Completed Write Thread [383]
+Completed Write Thread [385]
+Completed Write Thread [384]
+Completed Write Thread [386]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+start_write 62500000
+end_write 93750000
+Started Write Thread [388]
+Started Write Thread [387]
+start_write 93750000
+end_write 125000000
+Started Write Thread [389]
+Started Write Thread [390]
+Completed Write Thread [389]
+Completed Write Thread [387]
+Completed Write Thread [390]
+Completed Write Thread [388]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [391]
+start_write 62500000
+end_write 93750000
+start_write 93750000
+end_write 125000000
+Started Write Thread [393]
+Started Write Thread [392]
+Started Write Thread [394]
+Completed Write Thread [391]
+Completed Write Thread [393]
+Completed Write Thread [394]
+Completed Write Thread [392]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+start_write 62500000
+end_write 93750000
+start_write 93750000
+end_write 125000000
+Started Write Thread [396]
+Started Write Thread [397]
+Started Write Thread [395]
+Started Write Thread [398]
+Completed Write Thread [396]
+Completed Write Thread [395]
+Completed Write Thread [398]
+Completed Write Thread [397]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+start_write 62500000
+end_write 93750000
+start_write 93750000
+end_write 125000000
+Started Write Thread [400]
+Started Write Thread [399]
+Started Write Thread [401]
+Started Write Thread [402]
+Completed Write Thread [402]
+Completed Write Thread [399]
+Completed Write Thread [401]
+Completed Write Thread [400]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+start_write 62500000
+end_write 93750000
+Started Write Thread [404]
+Started Write Thread [403]
+start_write 93750000
+end_write 125000000
+Started Write Thread [405]
+Started Write Thread [406]
+Completed Write Thread [406]
+Completed Write Thread [403]
+Completed Write Thread [404]
+Completed Write Thread [405]
+Completed all Write threads
+Divided file count: 72
+Spawning [4] Threads for read operation
+Started Read Thread [408]
+Started Read Thread [410]
+Started Read Thread [407]
+Started Read Thread [409]
+Completed all Read threads
+Time Taken to divide into chunks = 0.465 sec
+Spawning [8] Threads for mergesort operation
+Completed all Merge Sort threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+start_write 62500000
+end_write 93750000
+Started Write Thread [419]
+Started Write Thread [420]
+start_write 93750000
+end_write 125000000
+Started Write Thread [421]
+Started Write Thread [422]
+Completed Write Thread [421]
+Completed Write Thread [420]
+Completed Write Thread [422]
+Completed Write Thread [419]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [423]
+start_write 62500000
+end_write 93750000
+Started Write Thread [424]
+start_write 93750000
+end_write 125000000
+Started Write Thread [425]
+Started Write Thread [426]
+Completed Write Thread [424]
+Completed Write Thread [426]
+Completed Write Thread [423]
+Completed Write Thread [425]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [427]
+Started Write Thread [428]
+start_write 62500000
+end_write 93750000
+start_write 93750000
+end_write 125000000
+Started Write Thread [429]
+Started Write Thread [430]
+Completed Write Thread [429]
+Completed Write Thread [427]
+Completed Write Thread [430]
+Completed Write Thread [428]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [431]
+start_write 62500000
+end_write 93750000
+start_write 93750000
+end_write 125000000
+Started Write Thread [432]
+Started Write Thread [433]
+Started Write Thread [434]
+Completed Write Thread [431]
+Completed Write Thread [434]
+Completed Write Thread [433]
+Completed Write Thread [432]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [435]
+start_write 62500000
+end_write 93750000
+Started Write Thread [436]
+start_write 93750000
+end_write 125000000
+Started Write Thread [438]
+Started Write Thread [437]
+Completed Write Thread [435]
+Completed Write Thread [436]
+Completed Write Thread [437]
+Completed Write Thread [438]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [439]
+start_write 62500000
+end_write 93750000
+Started Write Thread [440]
+start_write 93750000
+end_write 125000000
+Started Write Thread [441]
+Started Write Thread [442]
+Completed Write Thread [442]
+Completed Write Thread [439]
+Completed Write Thread [440]
+Completed Write Thread [441]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [443]
+start_write 62500000
+end_write 93750000
+start_write 93750000
+end_write 125000000
+Started Write Thread [444]
+Started Write Thread [445]
+Started Write Thread [446]
+Completed Write Thread [446]
+Completed Write Thread [444]
+Completed Write Thread [445]
+Completed Write Thread [443]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [447]
+start_write 62500000
+end_write 93750000
+start_write 93750000
+end_write 125000000
+Started Write Thread [448]
+Started Write Thread [450]
+Started Write Thread [449]
+Completed Write Thread [450]
+Completed Write Thread [447]
+Completed Write Thread [448]
+Completed Write Thread [449]
+Completed all Write threads
+Divided file count: 80
+Spawning [4] Threads for read operation
+Started Read Thread [451]
+Started Read Thread [452]
+Started Read Thread [453]
+Started Read Thread [454]
+Completed all Read threads
+Time Taken to divide into chunks = 0.457 sec
+Spawning [8] Threads for mergesort operation
+Completed all Merge Sort threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [463]
+start_write 62500000
+end_write 93750000
+Started Write Thread [464]
+start_write 93750000
+end_write 125000000
+Started Write Thread [465]
+Started Write Thread [466]
+Completed Write Thread [464]
+Completed Write Thread [463]
+Completed Write Thread [466]
+Completed Write Thread [465]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+start_write 62500000
+end_write 93750000
+start_write 93750000
+end_write 125000000
+Started Write Thread [467]
+Started Write Thread [469]
+Started Write Thread [468]
+Started Write Thread [470]
+Completed Write Thread [470]
+Completed Write Thread [468]
+Completed Write Thread [467]
+Completed Write Thread [469]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [471]
+start_write 62500000
+end_write 93750000
+Started Write Thread [472]
+start_write 93750000
+end_write 125000000
+Started Write Thread [473]
+Started Write Thread [474]
+Completed Write Thread [472]
+Completed Write Thread [474]
+Completed Write Thread [471]
+Completed Write Thread [473]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [475]
+start_write 62500000
+end_write 93750000
+Started Write Thread [476]
+start_write 93750000
+end_write 125000000
+Started Write Thread [477]
+Started Write Thread [478]
+Completed Write Thread [476]
+Completed Write Thread [475]
+Completed Write Thread [478]
+Completed Write Thread [477]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [479]
+start_write 62500000
+end_write 93750000
+Started Write Thread [480]
+start_write 93750000
+end_write 125000000
+Started Write Thread [482]
+Started Write Thread [481]
+Completed Write Thread [482]
+Completed Write Thread [479]
+Completed Write Thread [481]
+Completed Write Thread [480]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [483]
+start_write 62500000
+end_write 93750000
+Started Write Thread [484]
+start_write 93750000
+end_write 125000000
+Started Write Thread [485]
+Started Write Thread [486]
+Completed Write Thread [483]
+Completed Write Thread [485]
+Completed Write Thread [484]
+Completed Write Thread [486]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+start_write 62500000
+end_write 93750000
+Started Write Thread [487]
+Started Write Thread [488]
+start_write 93750000
+end_write 125000000
+Started Write Thread [489]
+Started Write Thread [490]
+Completed Write Thread [488]
+Completed Write Thread [487]
+Completed Write Thread [490]
+Completed Write Thread [489]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+start_write 62500000
+end_write 93750000
+Started Write Thread [491]
+start_write 93750000
+end_write 125000000
+Started Write Thread [493]
+Started Write Thread [492]
+Started Write Thread [494]
+Completed Write Thread [494]
+Completed Write Thread [491]
+Completed Write Thread [493]
+Completed Write Thread [492]
+Completed all Write threads
+Divided file count: 88
+Spawning [4] Threads for read operation
+Started Read Thread [495]
+Started Read Thread [496]
+Started Read Thread [497]
+Started Read Thread [498]
+Completed all Read threads
+Time Taken to divide into chunks = 0.446 sec
+Spawning [8] Threads for mergesort operation
+Completed all Merge Sort threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [507]
+start_write 62500000
+end_write 93750000
+start_write 93750000
+end_write 125000000
+Started Write Thread [508]
+Started Write Thread [509]
+Started Write Thread [510]
+Completed Write Thread [508]
+Completed Write Thread [509]
+Completed Write Thread [507]
+Completed Write Thread [510]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [511]
+start_write 62500000
+end_write 93750000
+Started Write Thread [512]
+start_write 93750000
+end_write 125000000
+Started Write Thread [513]
+Started Write Thread [514]
+Completed Write Thread [514]
+Completed Write Thread [511]
+Completed Write Thread [512]
+Completed Write Thread [513]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+start_write 62500000
+end_write 93750000
+Started Write Thread [515]
+start_write 93750000
+end_write 125000000
+Started Write Thread [517]
+Started Write Thread [516]
+Started Write Thread [518]
+Completed Write Thread [516]
+Completed Write Thread [518]
+Completed Write Thread [515]
+Completed Write Thread [517]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [519]
+start_write 62500000
+end_write 93750000
+Started Write Thread [520]
+start_write 93750000
+end_write 125000000
+Started Write Thread [521]
+Started Write Thread [522]
+Completed Write Thread [522]
+Completed Write Thread [520]
+Completed Write Thread [521]
+Completed Write Thread [519]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+start_write 62500000
+end_write 93750000
+Started Write Thread [523]
+start_write 93750000
+end_write 125000000
+Started Write Thread [524]
+Started Write Thread [525]
+Started Write Thread [526]
+Completed Write Thread [524]
+Completed Write Thread [523]
+Completed Write Thread [525]
+Completed Write Thread [526]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [527]
+start_write 62500000
+end_write 93750000
+start_write 93750000
+end_write 125000000
+Started Write Thread [528]
+Started Write Thread [529]
+Started Write Thread [530]
+Completed Write Thread [529]
+Completed Write Thread [528]
+Completed Write Thread [530]
+Completed Write Thread [527]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+start_write 62500000
+end_write 93750000
+Started Write Thread [531]
+start_write 93750000
+end_write 125000000
+Started Write Thread [532]
+Started Write Thread [533]
+Started Write Thread [534]
+Completed Write Thread [534]
+Completed Write Thread [532]
+Completed Write Thread [533]
+Completed Write Thread [531]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+start_write 62500000
+end_write 93750000
+start_write 93750000
+end_write 125000000
+Started Write Thread [536]
+Started Write Thread [537]
+Started Write Thread [538]
+Started Write Thread [535]
+Completed Write Thread [535]
+Completed Write Thread [538]
+Completed Write Thread [537]
+Completed Write Thread [536]
+Completed all Write threads
+Divided file count: 96
+Spawning [4] Threads for read operation
+Started Read Thread [540]
+Started Read Thread [539]
+Started Read Thread [541]
+Started Read Thread [542]
+Completed all Read threads
+Time Taken to divide into chunks = 0.347 sec
+Spawning [8] Threads for mergesort operation
+Completed all Merge Sort threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+start_write 62500000
+end_write 93750000
+Started Write Thread [552]
+Started Write Thread [551]
+start_write 93750000
+end_write 125000000
+Started Write Thread [553]
+Started Write Thread [554]
+Completed Write Thread [551]
+Completed Write Thread [553]
+Completed Write Thread [552]
+Completed Write Thread [554]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [555]
+start_write 62500000
+end_write 93750000
+start_write 93750000
+end_write 125000000
+Started Write Thread [557]
+Started Write Thread [556]
+Started Write Thread [558]
+Completed Write Thread [556]
+Completed Write Thread [557]
+Completed Write Thread [555]
+Completed Write Thread [558]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [559]
+start_write 62500000
+end_write 93750000
+Started Write Thread [560]
+start_write 93750000
+end_write 125000000
+Started Write Thread [562]
+Started Write Thread [561]
+Completed Write Thread [562]
+Completed Write Thread [559]
+Completed Write Thread [561]
+Completed Write Thread [560]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [563]
+start_write 62500000
+Started Write Thread [564]
+end_write 93750000
+start_write 93750000
+end_write 125000000
+Started Write Thread [565]
+Started Write Thread [566]
+Completed Write Thread [564]
+Completed Write Thread [565]
+Completed Write Thread [563]
+Completed Write Thread [566]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [567]
+start_write 62500000
+end_write 93750000
+start_write 93750000
+end_write 125000000
+Started Write Thread [568]
+Started Write Thread [569]
+Started Write Thread [570]
+Completed Write Thread [570]
+Completed Write Thread [567]
+Completed Write Thread [568]
+Completed Write Thread [569]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+start_write 62500000
+end_write 93750000
+Started Write Thread [571]
+Started Write Thread [573]
+Started Write Thread [572]
+start_write 93750000
+end_write 125000000
+Started Write Thread [574]
+Completed Write Thread [571]
+Completed Write Thread [572]
+Completed Write Thread [573]
+Completed Write Thread [574]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [575]
+start_write 62500000
+end_write 93750000
+Started Write Thread [576]
+start_write 93750000
+end_write 125000000
+Started Write Thread [577]
+Started Write Thread [578]
+Completed Write Thread [575]
+Completed Write Thread [577]
+Completed Write Thread [576]
+Completed Write Thread [578]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [579]
+start_write 62500000
+end_write 93750000
+Started Write Thread [580]
+start_write 93750000
+end_write 125000000
+Started Write Thread [581]
+Started Write Thread [582]
+Completed Write Thread [580]
+Completed Write Thread [582]
+Completed Write Thread [579]
+Completed Write Thread [581]
+Completed all Write threads
+Divided file count: 104
+Spawning [4] Threads for read operation
+Started Read Thread [583]
+Started Read Thread [584]
+Started Read Thread [586]
+Started Read Thread [585]
+Completed all Read threads
+Time Taken to divide into chunks = 0.423 sec
+Spawning [8] Threads for mergesort operation
+Completed all Merge Sort threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [595]
+start_write 62500000
+end_write 93750000
+Started Write Thread [596]
+start_write 93750000
+end_write 125000000
+Started Write Thread [597]
+Started Write Thread [598]
+Completed Write Thread [595]
+Completed Write Thread [598]
+Completed Write Thread [597]
+Completed Write Thread [596]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [599]
+start_write 62500000
+end_write 93750000
+Started Write Thread [600]
+start_write 93750000
+end_write 125000000
+Started Write Thread [601]
+Started Write Thread [602]
+Completed Write Thread [600]
+Completed Write Thread [601]
+Completed Write Thread [599]
+Completed Write Thread [602]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [603]
+Started Write Thread [604]
+start_write 62500000
+end_write 93750000
+start_write 93750000
+end_write 125000000
+Started Write Thread [605]
+Started Write Thread [606]
+Completed Write Thread [604]
+Completed Write Thread [606]
+Completed Write Thread [605]
+Completed Write Thread [603]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [607]
+start_write 62500000
+end_write 93750000
+Started Write Thread [608]
+start_write 93750000
+end_write 125000000
+Started Write Thread [609]
+Started Write Thread [610]
+Completed Write Thread [609]
+Completed Write Thread [610]
+Completed Write Thread [607]
+Completed Write Thread [608]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [611]
+start_write 62500000
+end_write 93750000
+Started Write Thread [612]
+start_write 93750000
+end_write 125000000
+Started Write Thread [613]
+Started Write Thread [614]
+Completed Write Thread [612]
+Completed Write Thread [611]
+Completed Write Thread [614]
+Completed Write Thread [613]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [615]
+start_write 62500000
+end_write 93750000
+Started Write Thread [616]
+start_write 93750000
+end_write 125000000
+Started Write Thread [617]
+Started Write Thread [618]
+Completed Write Thread [616]
+Completed Write Thread [618]
+Completed Write Thread [615]
+Completed Write Thread [617]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [619]
+start_write 62500000
+end_write 93750000
+Started Write Thread [620]
+start_write 93750000
+end_write 125000000
+Started Write Thread [621]
+Started Write Thread [622]
+Completed Write Thread [622]
+Completed Write Thread [621]
+Completed Write Thread [619]
+Completed Write Thread [620]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [623]
+start_write 62500000
+end_write 93750000
+start_write 93750000
+end_write 125000000
+Started Write Thread [625]
+Started Write Thread [624]
+Started Write Thread [626]
+Completed Write Thread [626]
+Completed Write Thread [625]
+Completed Write Thread [623]
+Completed Write Thread [624]
+Completed all Write threads
+Divided file count: 112
+Spawning [4] Threads for read operation
+Started Read Thread [627]
+Started Read Thread [628]
+Started Read Thread [629]
+Started Read Thread [630]
+Completed all Read threads
+Time Taken to divide into chunks = 0.429 sec
+Spawning [8] Threads for mergesort operation
+Completed all Merge Sort threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [639]
+start_write 62500000
+end_write 93750000
+Started Write Thread [640]
+start_write 93750000
+end_write 125000000
+Started Write Thread [641]
+Started Write Thread [642]
+Completed Write Thread [640]
+Completed Write Thread [641]
+Completed Write Thread [639]
+Completed Write Thread [642]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+start_write 62500000
+end_write 93750000
+Started Write Thread [643]
+start_write 93750000
+end_write 125000000
+Started Write Thread [644]
+Started Write Thread [645]
+Started Write Thread [646]
+Completed Write Thread [646]
+Completed Write Thread [644]
+Completed Write Thread [643]
+Completed Write Thread [645]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [647]
+start_write 62500000
+end_write 93750000
+Started Write Thread [648]
+start_write 93750000
+end_write 125000000
+Started Write Thread [650]
+Started Write Thread [649]
+Completed Write Thread [648]
+Completed Write Thread [647]
+Completed Write Thread [649]
+Completed Write Thread [650]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [651]
+start_write 62500000
+end_write 93750000
+Started Write Thread [652]
+start_write 93750000
+end_write 125000000
+Started Write Thread [653]
+Started Write Thread [654]
+Completed Write Thread [654]
+Completed Write Thread [653]
+Completed Write Thread [651]
+Completed Write Thread [652]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [655]
+start_write 62500000
+end_write 93750000
+Started Write Thread [656]
+start_write 93750000
+end_write 125000000
+Started Write Thread [657]
+Started Write Thread [658]
+Completed Write Thread [655]
+Completed Write Thread [656]
+Completed Write Thread [657]
+Completed Write Thread [658]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [659]
+start_write 62500000
+end_write 93750000
+start_write 93750000
+end_write 125000000
+Started Write Thread [660]
+Started Write Thread [661]
+Started Write Thread [662]
+Completed Write Thread [662]
+Completed Write Thread [660]
+Completed Write Thread [659]
+Completed Write Thread [661]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [663]
+start_write 62500000
+end_write 93750000
+start_write 93750000
+end_write 125000000
+Started Write Thread [664]
+Started Write Thread [665]
+Started Write Thread [666]
+Completed Write Thread [666]
+Completed Write Thread [665]
+Completed Write Thread [664]
+Completed Write Thread [663]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [667]
+start_write 62500000
+end_write 93750000
+Started Write Thread [668]
+start_write 93750000
+end_write 125000000
+Started Write Thread [669]
+Started Write Thread [670]
+Completed Write Thread [670]
+Completed Write Thread [668]
+Completed Write Thread [667]
+Completed Write Thread [669]
+Completed all Write threads
+Divided file count: 120
+Spawning [4] Threads for read operation
+Started Read Thread [671]
+Started Read Thread [673]
+Started Read Thread [672]
+Started Read Thread [674]
+Completed all Read threads
+Time Taken to divide into chunks = 0.394 sec
+Spawning [8] Threads for mergesort operation
+Completed all Merge Sort threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+start_write 62500000
+end_write 93750000
+Started Write Thread [683]
+Started Write Thread [684]
+start_write 93750000
+end_write 125000000
+Started Write Thread [685]
+Started Write Thread [686]
+Completed Write Thread [684]
+Completed Write Thread [686]
+Completed Write Thread [683]
+Completed Write Thread [685]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [687]
+start_write 62500000
+end_write 93750000
+Started Write Thread [688]
+start_write 93750000
+end_write 125000000
+Started Write Thread [689]
+Started Write Thread [690]
+Completed Write Thread [687]
+Completed Write Thread [689]
+Completed Write Thread [690]
+Completed Write Thread [688]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [691]
+start_write 62500000
+end_write 93750000
+start_write 93750000
+Started Write Thread [692]
+end_write 125000000
+Started Write Thread [693]
+Started Write Thread [694]
+Completed Write Thread [693]
+Completed Write Thread [694]
+Completed Write Thread [691]
+Completed Write Thread [692]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [695]
+start_write 62500000
+end_write 93750000
+Started Write Thread [696]
+start_write 93750000
+end_write 125000000
+Started Write Thread [697]
+Started Write Thread [698]
+Completed Write Thread [696]
+Completed Write Thread [695]
+Completed Write Thread [697]
+Completed Write Thread [698]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [699]
+Started Write Thread [700]
+start_write 62500000
+end_write 93750000
+start_write 93750000
+end_write 125000000
+Started Write Thread [701]
+Started Write Thread [702]
+Completed Write Thread [702]
+Completed Write Thread [699]
+Completed Write Thread [701]
+Completed Write Thread [700]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [703]
+start_write 62500000
+end_write 93750000
+Started Write Thread [704]
+start_write 93750000
+Started Write Thread [705]
+end_write 125000000
+Started Write Thread [706]
+Completed Write Thread [705]
+Completed Write Thread [704]
+Completed Write Thread [706]
+Completed Write Thread [703]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [707]
+start_write 62500000
+end_write 93750000
+Started Write Thread [708]
+start_write 93750000
+end_write 125000000
+Started Write Thread [709]
+Started Write Thread [710]
+Completed Write Thread [708]
+Completed Write Thread [707]
+Completed Write Thread [709]
+Completed Write Thread [710]
+Completed all Write threads
+Spawning [4] Threads for write operation
+start_write 0
+end_write 31250000
+start_write 31250000
+end_write 62500000
+Started Write Thread [711]
+start_write 62500000
+end_write 93750000
+Started Write Thread [712]
+start_write 93750000
+end_write 125000000
+Started Write Thread [714]
+Started Write Thread [713]
+Completed Write Thread [712]
+Completed Write Thread [713]
+Completed Write Thread [711]
+Completed Write Thread [714]
+Completed all Write threads
+Divided file count: 128
+Total lines = 160000000
+Time Taken to perform External Merge = 100.717 sec
+Time Taken to read file = 135.151 sec
+Time Taken to perform merge sort = 436.006 sec
+Total Time = 672.304 sec
+
+Run Valsort verification for sorted output file :
+Records: 160000000
+Checksum: 4c4a5e596cea2c4
+Duplicate keys: 0
+SUCCESS - all records are in order

@@ -1,0 +1,103 @@
+ubuntu@demo-namenode:/exports/projects/hadoop-3.2.1$ bin/hadoop jar HadoopSort.jar HadoopSort /home/input/inputFile /home/output 2
+Hadoop Sort Program Started
+2020-04-30 05:40:15,733 INFO client.RMProxy: Connecting to ResourceManager at /192.168.122.30:8032
+2020-04-30 05:40:16,099 INFO mapreduce.JobResourceUploader: Disabling Erasure Coding for path: /tmp/hadoop-yarn/staging/ubuntu/.staging/job_1588221529060_0005
+2020-04-30 05:40:16,170 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false
+2020-04-30 05:40:16,251 INFO input.FileInputFormat: Total input files to process : 1
+2020-04-30 05:40:16,280 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false
+2020-04-30 05:40:16,291 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false
+2020-04-30 05:40:16,294 INFO mapreduce.JobSubmitter: number of splits:15
+2020-04-30 05:40:16,326 INFO Configuration.deprecation: mapred.textoutputformat.separator is deprecated. Instead, use mapreduce.output.textoutputformat.separator
+2020-04-30 05:40:16,395 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false
+2020-04-30 05:40:16,410 INFO mapreduce.JobSubmitter: Submitting tokens for job: job_1588221529060_0005
+2020-04-30 05:40:16,410 INFO mapreduce.JobSubmitter: Executing with tokens: []
+2020-04-30 05:40:16,539 INFO conf.Configuration: resource-types.xml not found
+2020-04-30 05:40:16,539 INFO resource.ResourceUtils: Unable to find 'resource-types.xml'.
+2020-04-30 05:40:16,587 INFO impl.YarnClientImpl: Submitted application application_1588221529060_0005
+2020-04-30 05:40:16,620 INFO mapreduce.Job: The url to track the job: http://demo-namenode.local:8088/proxy/application_1588221529060_0005/
+2020-04-30 05:40:16,621 INFO mapreduce.Job: Running job: job_1588221529060_0005
+2020-04-30 05:40:21,681 INFO mapreduce.Job: Job job_1588221529060_0005 running in uber mode : false
+2020-04-30 05:40:21,682 INFO mapreduce.Job:  map 0% reduce 0%
+2020-04-30 05:40:32,771 INFO mapreduce.Job:  map 40% reduce 0%
+2020-04-30 05:40:40,820 INFO mapreduce.Job:  map 47% reduce 0%
+2020-04-30 05:40:41,824 INFO mapreduce.Job:  map 73% reduce 0%
+2020-04-30 05:40:42,829 INFO mapreduce.Job:  map 80% reduce 0%
+2020-04-30 05:40:49,857 INFO mapreduce.Job:  map 100% reduce 0%
+2020-04-30 05:40:56,884 INFO mapreduce.Job:  map 100% reduce 95%
+2020-04-30 05:40:57,888 INFO mapreduce.Job:  map 100% reduce 100%
+2020-04-30 05:40:58,896 INFO mapreduce.Job: Job job_1588221529060_0005 completed successfully
+2020-04-30 05:40:58,971 INFO mapreduce.Job: Counters: 55
+        File System Counters
+                FILE: Number of bytes read=1020000024
+                FILE: Number of bytes written=2043859357
+                FILE: Number of read operations=0
+                FILE: Number of large read operations=0
+                FILE: Number of write operations=0
+                HDFS: Number of bytes read=1001836688
+                HDFS: Number of bytes written=1000000000
+                HDFS: Number of read operations=55
+                HDFS: Number of large read operations=0
+                HDFS: Number of write operations=4
+                HDFS: Number of bytes read erasure-coded=0
+        Job Counters
+                Killed map tasks=1
+                Launched map tasks=15
+                Launched reduce tasks=2
+                Data-local map tasks=15
+                Total time spent by all maps in occupied slots (ms)=121393
+                Total time spent by all reduces in occupied slots (ms)=30803
+                Total time spent by all map tasks (ms)=121393
+                Total time spent by all reduce tasks (ms)=30803
+                Total vcore-milliseconds taken by all map tasks=121393
+                Total vcore-milliseconds taken by all reduce tasks=30803
+                Total megabyte-milliseconds taken by all map tasks=124306432
+                Total megabyte-milliseconds taken by all reduce tasks=31542272
+        Map-Reduce Framework
+                Map input records=10000000
+                Map output records=10000000
+                Map output bytes=1000000000
+                Map output materialized bytes=1020000180
+                Input split bytes=1680
+                Combine input records=0
+                Combine output records=0
+                Reduce input groups=10000000
+                Reduce shuffle bytes=1020000180
+                Reduce input records=10000000
+                Reduce output records=10000000
+                Spilled Records=20000000
+                Shuffled Maps =30
+                Failed Shuffles=0
+                Merged Map outputs=30
+                GC time elapsed (ms)=5006
+                CPU time spent (ms)=64190
+                Physical memory (bytes) snapshot=8854646784
+                Virtual memory (bytes) snapshot=44102549504
+                Total committed heap usage (bytes)=7959216128
+                Peak Map Physical memory (bytes)=589737984
+                Peak Map Virtual memory (bytes)=2595549184
+                Peak Reduce Physical memory (bytes)=817242112
+                Peak Reduce Virtual memory (bytes)=2602782720
+        Shuffle Errors
+                BAD_ID=0
+                CONNECTION=0
+                IO_ERROR=0
+                WRONG_LENGTH=0
+                WRONG_MAP=0
+                WRONG_REDUCE=0
+        File Input Format Counters
+                Bytes Read=1001835008
+        File Output Format Counters
+                Bytes Written=1000000000
+Time taken to sort: 43882.0 milliseconds.
+
+ubuntu@demo-namenode:/exports/projects/hadoop-3.2.1/output$ ls
+_SUCCESS  part-r-00000  part-r-00001  valsort
+ubuntu@demo-namenode:/exports/projects/hadoop-3.2.1/output$ cat part-r-00000 part-r-00001 >> output.txt
+
+ubuntu@demo-namenode:/exports/projects/hadoop-3.2.1/output$ ./valsort output.txt
+Records: 10000000
+Checksum: 4c4b60f300315d
+Duplicate keys: 0
+SUCCESS - all records are in order
+ubuntu@demo-namenode:/exports/proje
+

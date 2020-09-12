@@ -1,0 +1,667 @@
+2020-04-30 05:09:47,619 INFO yarn.Client: Uploading resource file:/tmp/spark-a709df6b-
+/sparkstaging/ubuntu/.sparkStaging/application_1588221529060_0002/__spark_libs__233178
+2020-04-30 05:09:48,774 INFO yarn.Client: Uploading resource file:/exports/projects/sp
+untu/.sparkStaging/application_1588221529060_0002/SparkKeySort.jar
+2020-04-30 05:09:48,942 INFO yarn.Client: Uploading resource file:/tmp/spark-a709df6b-
+9060_0002 to ResourceManager
+2020-04-30 05:09:49,068 INFO impl.YarnClientImpl: Submitted application application_15
+88221529060_0002
+2020-04-30 05:09:50,071 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: ACCEPTED)
+2020-04-30 05:09:50,074 INFO yarn.Client:
+         client token: N/A
+         diagnostics: AM container is launched, waiting for AM container to Register w
+ith RM
+         ApplicationMaster host: N/A
+         ApplicationMaster RPC port: -1
+         queue: default
+         start time: 1588223389044
+         final status: UNDEFINED
+         tracking URL: http://demo-namenode.local:8088/proxy/application_1588221529060
+_0002/
+         user: ubuntu
+2020-04-30 05:09:51,076 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: ACCEPTED)
+2020-04-30 05:09:52,080 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: ACCEPTED)
+2020-04-30 05:09:53,083 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: ACCEPTED)
+2020-04-30 05:09:54,085 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: ACCEPTED)
+2020-04-30 05:09:55,087 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:09:55,088 INFO yarn.Client:
+         client token: N/A
+         diagnostics: N/A
+         ApplicationMaster host: demo-datanode1.local
+         ApplicationMaster RPC port: 38303
+         queue: default
+         start time: 1588223389044
+         final status: UNDEFINED
+         tracking URL: http://demo-namenode.local:8088/proxy/application_1588221529060
+_0002/
+         user: ubuntu
+2020-04-30 05:09:56,090 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:09:57,092 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:09:58,094 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:09:59,097 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:00,098 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:01,100 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:02,102 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:03,104 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:04,107 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:05,110 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:06,111 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:07,113 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:08,114 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:09,116 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:10,117 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:11,119 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:12,120 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:13,122 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:14,124 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:15,125 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:16,127 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:17,128 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:18,130 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:19,132 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:20,133 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:21,135 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:22,136 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:23,138 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:24,140 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:25,142 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:26,144 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:27,146 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:28,148 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:29,150 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:30,152 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:31,154 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:32,156 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:33,158 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:34,160 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:35,163 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:36,165 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:37,167 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:38,169 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:39,171 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:40,173 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:41,175 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:42,177 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:43,179 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:44,181 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:45,183 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:46,184 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:47,186 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:48,188 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:49,190 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:50,193 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:51,194 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:52,196 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:53,198 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:54,200 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:55,202 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:56,204 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:57,206 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:58,208 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:10:59,209 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:00,211 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:01,213 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:02,215 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:03,217 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:04,220 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:05,222 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:06,224 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:07,226 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:08,228 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:09,230 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:10,232 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:11,234 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:12,235 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:13,237 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:14,239 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:15,242 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:16,243 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:17,245 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:18,247 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:19,249 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:20,251 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:21,253 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:22,255 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:23,257 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:24,258 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:25,260 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:26,262 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:27,264 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:28,266 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:29,268 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:30,270 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:31,272 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:32,274 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:33,276 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:34,277 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:35,279 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:36,281 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:37,282 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:38,284 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:39,286 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:40,288 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:41,290 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:42,292 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:43,294 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:44,296 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:45,298 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:46,299 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:47,301 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:48,303 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:49,305 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:50,306 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:51,308 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:52,310 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:53,313 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:54,315 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:55,316 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:56,318 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:57,320 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:58,322 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:11:59,323 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:00,325 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:01,327 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:02,329 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:03,331 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:04,332 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:05,334 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:06,336 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:07,337 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:08,339 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:09,341 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:10,343 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:11,344 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:12,347 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:13,349 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:14,351 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:15,353 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:16,354 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:17,356 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:18,358 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:19,359 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:20,361 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:21,363 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:22,364 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:23,366 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:24,368 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:25,370 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:26,372 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:27,374 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:28,376 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:29,377 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:30,379 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:31,381 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:32,383 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:33,384 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:34,386 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:35,388 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:36,389 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:37,391 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:38,392 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:39,394 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:40,396 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:41,398 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:42,399 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:43,401 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:44,403 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:45,404 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:46,406 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:47,408 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:48,409 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:49,411 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:50,413 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:51,415 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:52,416 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:53,418 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:54,420 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:55,421 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:56,423 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:57,425 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:58,427 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:12:59,428 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:00,430 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:01,432 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:02,434 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:03,435 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:04,438 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:05,439 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:06,441 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:07,443 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:08,444 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:09,446 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:10,448 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:11,450 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:12,452 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:13,453 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:14,455 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:15,457 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:16,459 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:17,460 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:18,462 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:19,464 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:20,466 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:21,467 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:22,469 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:23,471 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:24,472 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:25,474 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:26,476 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:27,477 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:28,479 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:29,481 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:30,482 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:31,484 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:32,485 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:33,487 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:34,489 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:35,490 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:36,492 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:37,493 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:38,495 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:39,497 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:40,498 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:41,500 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:42,502 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:43,503 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:44,505 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:45,507 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:46,508 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:47,510 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:48,511 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:49,513 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:50,515 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:51,516 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:52,518 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:53,519 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:54,521 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:55,523 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:56,525 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:57,526 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:58,528 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:13:59,530 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:00,532 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:01,534 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:02,537 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:03,539 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:04,540 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:05,542 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:06,544 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:07,545 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:08,547 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:09,548 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:10,550 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:11,551 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:12,553 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:13,554 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:14,556 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:15,557 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:16,559 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:17,560 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:18,561 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:19,563 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:20,564 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:21,566 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:22,568 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:23,569 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:24,571 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:25,572 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:26,574 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:27,576 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:28,577 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:29,579 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:30,581 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:31,582 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:32,584 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:33,585 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:34,587 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:35,588 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:36,589 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:37,591 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:38,592 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:39,594 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:40,595 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:41,597 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:42,599 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:43,600 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:44,602 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:45,603 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:46,605 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:47,607 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:48,608 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:49,610 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:50,612 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:51,613 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:52,615 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:53,616 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: RUNNING)
+2020-04-30 05:14:54,618 INFO yarn.Client: Application report for application_158822152
+9060_0002 (state: FINISHED)
+2020-04-30 05:14:54,619 INFO yarn.Client:
+         client token: N/A
+         diagnostics: N/A
+         ApplicationMaster host: demo-datanode1.local
+         ApplicationMaster RPC port: 38303
+         queue: default
+         start time: 1588223389044
+         final status: SUCCEEDED
+         tracking URL: http://demo-namenode.local:8088/proxy/application_1588221529060
+_0002/
+         user: ubuntu
+2020-04-30 05:14:54,629 INFO util.ShutdownHookManager: Shutdown hook called
+2020-04-30 05:14:54,630 INFO util.ShutdownHookManager: Deleting directory /tmp/spark-a
+709df6b-d912-4928-bb5e-2f114e90a2df
+2020-04-30 05:14:54,635 INFO util.ShutdownHookManager: Deleting directory /tmp/spark-2
+dc3980a-f305-434c-affe-a3810e8b7cc8
+
+real    5m11.105s
+user    0m7.148s
+sys     0m1.700s
+
+ubuntu@demo-namenode:/exports/projects/hadoop-3.2.1/output$ ./valsort part-00000
+Records: 40000000
+Checksum: 1312774ebf75c93
+Duplicate keys: 0
+SUCCESS - all records are in order
