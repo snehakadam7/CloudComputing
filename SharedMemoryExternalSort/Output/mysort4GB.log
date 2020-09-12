@@ -1,0 +1,74 @@
+4GB input file generated
+
+Run MySort Benchmark for 4GB :
+Setting Memory Limit : 8589934592
+Number of Threads for Sorting : 46
+Number of Threads for I/O : 46
+Performing In-Memory Sort
+Spawning [46] Threads for read operation
+Started Read Thread [32]
+Started Read Thread [53]
+Started Read Thread [67]
+Started Read Thread [46]
+Started Read Thread [63]
+Started Read Thread [65]
+Started Read Thread [48]
+Started Read Thread [36]
+Started Read Thread [51]
+Started Read Thread [62]
+Started Read Thread [38]
+Started Read Thread [40]
+Started Read Thread [68]
+Started Read Thread [37]
+Started Read Thread [54]
+Started Read Thread [44]
+Started Read Thread [29]
+Started Read Thread [59]
+Started Read Thread [39]
+Started Read Thread [26]
+Started Read Thread [52]
+Started Read Thread [58]
+Started Read Thread [60]
+Started Read Thread [33]
+Started Read Thread [57]
+Started Read Thread [25]
+Started Read Thread [23]
+Started Read Thread [43]
+Started Read Thread [31]
+Started Read Thread [50]
+Started Read Thread [45]
+Started Read Thread [35]
+Started Read Thread [28]
+Started Read Thread [24]
+Started Read Thread [34]
+Started Read Thread [64]
+Started Read Thread [27]
+Started Read Thread [61]
+Started Read Thread [30]
+Started Read Thread [56]
+Started Read Thread [66]
+Started Read Thread [49]
+Started Read Thread [55]
+Started Read Thread [42]
+Started Read Thread [41]
+Started Read Thread [47]
+Started Read Thread [28]
+Completed all Read threads
+Time Taken to read file = 10.145 sec
+Time Taken to divide into chunks = 2.645 sec
+Spawning [46] Threads for mergesort operation
+Completed all Merge Sort threads
+size of sorted data list 47
+Time Taken to Complete First for loop = 0.0 sec
+Time Taken to Complete Second for loop = 400.214 sec
+Time Taken to Complete Merge process = 400.214 sec
+Time Taken to perform merge sort = 400.214 sec
+Time Taken to read file = 10.145 sec
+Time Taken to perform merge sort = 400.214 sec
+Total Time = 482.36 sec
+
+Run Valsort verification for sorted output file :
+Records: 40000000
+Checksum: 4c491aee14ae2b
+Duplicate keys: 0
+SUCCESS - all records are in order
